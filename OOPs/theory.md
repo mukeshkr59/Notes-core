@@ -240,7 +240,7 @@ public:
 
 **Answer**: The main four pillar of oops are given below.
 
-![pillar of OPPS](/assets/images/pillar_of_OOPS.png)
+![pillar of OPPS](/assets/pillar_of_OOPS.png)
 
 
 ---
@@ -252,7 +252,7 @@ public:
 
 **Real Life Example**
 
-<img src="/assets/images/inheritance.png" width="400" height="400">
+<img src="/assets/inheritance.png" width="400" height="400">
 
 There are 5 types of Inheritance:
 
@@ -506,7 +506,7 @@ int main()
 
 **Real Life Example**
 
-<img src="/assets/images/encapsulation.png" width="400" height="400">
+<img src="/assets/encapsulation.png" width="400" height="400">
 
 ```C++
 #include<iostream>
@@ -564,7 +564,7 @@ int main()
 
 **Real Life Example**
 
-<img src="/assets/images/abstraction.png" width="400" height="400">
+<img src="/assets/abstraction.png" width="400" height="400">
 
 
 ```C++
@@ -620,7 +620,7 @@ Polymorphism in C++ allows us to reuse code by creating one function that’s us
 
 **Real Life Example**
 
-<img src="/assets/images/polymorphism.png" width="400" height="400">
+<img src="/assets/polymorphism.png" width="400" height="400">
 
 
 There are 2 types of Polymorphism:
@@ -908,7 +908,7 @@ Protected Variable: 2
 
 ### Thanks for Reading 
 
-<img src="/assets/images/save.png" width="600" height="200">
+<img src="/assets/save.png" width="600" height="200">
 
 ---
 
